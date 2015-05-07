@@ -49,3 +49,18 @@ body {
 .counter strong {
 	color: rgba(255, 255, 255, 1);
 }
+
+.share {
+	position: absolute;	
+	width: 100%;
+	bottom: 30%;
+	text-align: center;
+}
+
+.share a {
+	color: rgba(204, 84, 63, 1);
+}
+
+.share a:hover, .share a:focus {
+	color: rgba(153, 63, 47, 1);
+}
