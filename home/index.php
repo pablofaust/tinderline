@@ -7,6 +7,7 @@
 <?php include $route.'/home/body.php' ?>
 <?php include $route.'/home/counter.php' ?>
 <?php include $route.'/home/share.php' ?>
+<?php include $route.'/home/panel.php' ?>
 
 
 </body>
