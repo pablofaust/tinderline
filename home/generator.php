@@ -9,7 +9,7 @@ $fifth = 'J\'ai toujours eu envie de me marier sans le dire à personne, qu\'est
 $sixth = 'Comment se passe ta journée/soirée, jusque là ?';
 $seventh = 'Je suis fatigué de moi-même, ça te dit d\'aller prendre un verre ?';
 $eigth = 'Il y a des films pas trop mal au ciné, en ce moment, ça te tente ?';
-$nineth = 'Je te préviens : je suis pas du genre à coucher dès le premier soir';
+$nineth = 'Je te préviens : je suis pas du genre à coucher dès le premier soir.';
 $tenth = 'T\'as beau être magnifique, tu ne m\'intimides pas.';
 
 $array = array($first, $second, $third, $fourth, $fifth, $sixth, $seventh, $eigth, $nineth, $tenth);
