@@ -4,6 +4,7 @@
 <body>
 	
 <?php include $route.'/home/body.php' ?>
+<?php include $route.'/home/counter.php' ?>
 
 </body>
 

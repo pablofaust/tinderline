@@ -35,3 +35,17 @@ body {
 .generator strong {
 	font-weight: 300;
 }
+
+.counter {
+	position: absolute;
+}
+
+.counter h2 {
+	font-family: 'Lato';
+	color: rgba(255, 255, 255, 0.75);
+	font-size: 1em;
+}
+
+.counter strong {
+	color: rgba(255, 255, 255, 1);
+}
