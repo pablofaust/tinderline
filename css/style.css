@@ -23,6 +23,15 @@ body {
 	color: white;
 }
 
-h1 {
+.generator h1 {
 	font-size: 1.5em;
+}
+
+.generator p {
+	font-family: 'Lato';
+	font-weight: 100;
+}
+
+.generator strong {
+	font-weight: 300;
 }

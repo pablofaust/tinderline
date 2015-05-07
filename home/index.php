@@ -6,3 +6,5 @@
 <?php include $route.'/home/body.php' ?>
 
 </body>
+
+<?php include $route.'/assets/footer.php' ?>
